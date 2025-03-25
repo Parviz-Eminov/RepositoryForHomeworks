@@ -1,8 +1,3 @@
-# Hello World!
-I'm Denis Eminov!
-And I'm 2 years old.
-I like coding in Java!
-
 Мы на столько крутые, что уже успели поработать со следующими компаниями:
 
 1. ООО «Рога и копыта»
